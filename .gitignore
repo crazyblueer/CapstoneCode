@@ -1,0 +1,22 @@
+# STM32CubeIDE and build files
+/.metadata/
+/Debug/
+/Release/
+/build/
+/out/
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.lst
+*.hex
+*.srec
+*.launch
+*.dep
+*.log
+/.settings/
+/.vscode/
+/.ipch/
+/*.ioc
+
