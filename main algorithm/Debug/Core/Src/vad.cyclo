@@ -1,0 +1,7 @@
+../Core/Src/vad.c:24:6:vad_init	1
+../Core/Src/vad.c:30:6:vad_reset_noise_estimation	1
+../Core/Src/vad.c:38:9:vad_is_noise_estimation_done	1
+../Core/Src/vad.c:42:11:vad_get_noise_energy	1
+../Core/Src/vad.c:46:6:vad_update_noise_estimation	3
+../Core/Src/vad.c:69:14:vad_process_mic_fft	15
+../Core/Src/vad.c:132:9:vad_all_mics_agree	7

@@ -1,0 +1,5 @@
+../Core/Src/preprocessing.c:38:7:preprocessing_init	24	static
+../Core/Src/preprocessing.c:52:7:apply_hamming_window	24	static
+../Core/Src/preprocessing.c:59:7:apply_bandpass_filter	16	static
+../Core/Src/preprocessing.c:65:7:prepare_frame	4120	static
+../Core/Src/preprocessing.c:77:7:process_fft_for_mic	48	static

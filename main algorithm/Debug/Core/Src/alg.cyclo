@@ -1,0 +1,9 @@
+../Core/Src/alg.c:9:6:timer_start	1
+../Core/Src/alg.c:13:7:timer_stop	2
+../Core/Src/alg.c:30:6:systick_timer_start	1
+../Core/Src/alg.c:34:10:systick_timer_stop	1
+../Core/Src/alg.c:41:7:population_mean	2
+../Core/Src/alg.c:47:7:population_stddev	2
+../Core/Src/alg.c:60:14:single_error	1
+../Core/Src/alg.c:66:7:mean_error	5
+../Core/Src/alg.c:77:5:compare_float_desc	1

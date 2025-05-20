@@ -1,0 +1,6 @@
+../Core/Src/gccphat.c:20:6:gccphat_init	3
+../Core/Src/gccphat.c:34:6:gccphat_cross_spectrum	2
+../Core/Src/gccphat.c:51:5:gccphat_find_peak	4
+../Core/Src/gccphat.c:76:15:gccphat_compute	3
+../Core/Src/gccphat.c:119:7:gccphat_tdoa_to_angle	3
+../Core/Src/gccphat.c:140:7:gccphat_beamforming_4mics	8

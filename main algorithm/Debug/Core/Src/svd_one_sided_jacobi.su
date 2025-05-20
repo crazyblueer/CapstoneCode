@@ -1,0 +1,3 @@
+../Core/Src/svd_one_sided_jacobi.c:123:14:dot_product	32	static
+../Core/Src/svd_one_sided_jacobi.c:132:13:apply_rotation	48	static
+../Core/Src/svd_one_sided_jacobi.c:141:5:svd_one_sided_jacobi_C	128	static

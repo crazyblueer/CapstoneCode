@@ -1,0 +1,9 @@
+../Core/Src/alg.c:9:6:timer_start	4	static
+../Core/Src/alg.c:13:7:timer_stop	4	static
+../Core/Src/alg.c:30:6:systick_timer_start	4	static
+../Core/Src/alg.c:34:10:systick_timer_stop	4	static
+../Core/Src/alg.c:41:7:population_mean	24	static
+../Core/Src/alg.c:47:7:population_stddev	32	static
+../Core/Src/alg.c:60:14:single_error	16	static
+../Core/Src/alg.c:66:7:mean_error	40	static
+../Core/Src/alg.c:77:5:compare_float_desc	24	static

@@ -1,0 +1,2 @@
+../Core/Src/beamforming.c:19:6:beamforming_init	1
+../Core/Src/beamforming.c:23:6:delay_and_sum_beamforming	6

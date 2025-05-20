@@ -1,0 +1,15 @@
+../Core/Src/c_math.c:11:6:sub_matrix	4
+../Core/Src/c_math.c:24:7:sign	3
+../Core/Src/c_math.c:31:7:signNo0	2
+../Core/Src/c_math.c:37:6:eye	2
+../Core/Src/c_math.c:43:6:householder	24
+../Core/Src/c_math.c:121:7:vector_norm	2
+../Core/Src/c_math.c:134:7:vector_norm_square	2
+../Core/Src/c_math.c:144:6:matrix_mul	4
+../Core/Src/c_math.c:160:6:matrix_mul_symm	6
+../Core/Src/c_math.c:202:6:matrix_mul_symm_bidiag	4
+../Core/Src/c_math.c:239:6:givens_rotation_left	3
+../Core/Src/c_math.c:251:6:givens_rotation_right	3
+../Core/Src/c_math.c:263:6:golub_kahan_step	6
+../Core/Src/c_math.c:304:6:eig2	1
+../Core/Src/c_math.c:312:6:rotate	3
