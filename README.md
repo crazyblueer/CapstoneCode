@@ -1,7 +1,7 @@
 
 # Capstone Project: Developing a Sound Source Localization System For Teleconference Applications
 
-This project integrates real-time audio signal processing on STM32 microcontrollers with source localization algorithms using a 4-microphone array. 
+This project integrates real-time audio signal processing on STM32 microcontrollers with source localization algorithms using a 4-microphone array and camera rotation toward the speaker. 
 For the demonstration video, check out this Youtube link: https://www.youtube.com/watch?v=IOeTKqY6mDM
 
 ## Repository Structure
