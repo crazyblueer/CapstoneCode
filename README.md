@@ -34,6 +34,7 @@ For the demonstration video, check out this Youtube link: https://www.youtube.co
   - Delay-and-Sum Beamforming
   - GCC-PHAT
   - MUSIC Algorithm (SVD-based, using Jacobi one-sided)
+- **Rotate the camera toward the speaker
 - **MATLAB Analysis**: Simulate localization algorithms and validate embedded results using real recordings.
 
 ## Technologies Used
